@@ -1,0 +1,3 @@
+"EEEE, MMMM dd, yyyy"
+"EEEE, MMMM dd, yyyy h:mmaa" -> "Tues day, Nov 3, 1987 11:23am"
+EEEE 星期（Tuesday） E简称(Tue),小写代表数字，yyyy年2016，yy16
